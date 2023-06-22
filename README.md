@@ -99,7 +99,7 @@ Dreamwalker is an advanced implementation of a Soft Actor-Critic model with Trun
 
 - **Face Generative Model**: State of the art face generative model that is based on a [VQGAN + absorbing diffusion](https://arxiv.org/abs/2111.12701) design.
 - **Wise Recipients Page**: Implemented a new design for the bank recipients page as well as added recipient creation functionality during my 10-week internship at [Wise](https://wise.com/gb/about/our-story).
-- **Context-Aware Recommender System**: Implemented a hybrid context-aware recommender system back-end, which utilises a personalised transformer and an embarrassingly shallow autoencoder (https://arxiv.org/abs/1905.03375) to provide accurate movie recommendations.
+- **Context-Aware Recommender System**: Implemented a hybrid context-aware recommender system back-end, which utilises a personalised transformer and an embarrassingly [shallow autoencoder](https://arxiv.org/abs/1905.03375) to provide accurate movie recommendations.
 - **ISC 2023**: During the ISC  2023 competition, was part of the ClusDur team and worked on running, optimising and automating the [POT3D](https://github.com/predsci/POT3D) application for multiple CPU and GPU supercomputer nodes.
 - **Automatic Meter Readings**: a computer vision based app that utilises a Arduino with a camera module to periodically take pictures of our power meter readings, use OCR to read the output and push readings to a Flask DB for storage, which is queried by a Discord bot.
 - **GymBattles**: During Durhack 2020, worked on a computer vision application which tracked workout routine moves like pushups and integrated that into a fun competitive fitness app called GymBattles. (https://github.com/DurhamCS/gym-battles)
