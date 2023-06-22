@@ -19,7 +19,7 @@ I'm **Arijus Lengvenis**, a passionate 4th year computer science student at the 
 ### 🏰 [The Royal Fork](https://github.com/ArijusLengvenis/royal-fork)
 
 <p align="center">
-  <img src="https://github.com/ArijusLengvenis/ArijusLengvenis/blob/main/resources/royal-fork.gif" alt="animated" />
+  <img src="https://github.com/ArijusLengvenis/ArijusLengvenis/blob/main/resources/flowchart.png" />
 </p>
 
 
