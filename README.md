@@ -19,7 +19,7 @@ I'm **Arijus Lengvenis**, a passionate 4th year computer science student at the 
 ### 🏰 [The Royal Fork](https://github.com/ArijusLengvenis/royal-fork)
 
 <p align="center">
-  <img src="https://github.com/ArijusLengvenis/ArijusLengvenis/blob/main/resources/flowchart.png" />
+  <img src="https://github.com/ArijusLengvenis/ArijusLengvenis/blob/main/resources/royal-fork.gif" alt="animated" />
 </p>
 
 
@@ -53,7 +53,7 @@ Quizzy is an interactive web application for creating, organizing, and participa
 ### 💬 [IBM Chatbot for Cloud for Financial Services (C4FS)](https://github.com/ArijusLengvenis/ibm-chatbot)
 
 <p align="center">
-  <img src="https://github.com/ArijusLengvenis/ArijusLengvenis/tree/main/resources/flowchart.png?raw=true" alt="animated" />
+  <img src="https://github.com/ArijusLengvenis/ArijusLengvenis/blob/main/resources/flowchart.png" />
 </p>
 
 This project was a significant step in my journey. I had the opportunity to work with a team of 4 on a self-learning chatbot to assist customers at IBM Cloud for Financial Services (C4FS). The project entailed using the IBM Watson machine learning framework for training a fully-functional chatbot to serve information from the IBM documentation promptly. I was the team leader, directly speaking with the client, leading Scrum meetings, and keeping things organized. The whole process taught me a great deal about cooperation within a team, reinforced my knowledge of agile development methodologies, and prepared me for my first summer internship at Wise.
