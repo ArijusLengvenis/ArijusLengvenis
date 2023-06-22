@@ -19,7 +19,7 @@ I'm **Arijus Lengvenis**, a passionate 4th year computer science student at the 
 ### 🏰 [The Royal Fork](https://github.com/ArijusLengvenis/royal-fork)
 
 <p align="center">
-  <img src="https://github.com/ArijusLengvenis/ArijusLengvenis/blob/resources/royal-fork.gif" alt="animated" />
+  <img src="https://github.com/ArijusLengvenis/ArijusLengvenis/blob/main/resources/royal-fork.gif" alt="animated" />
 </p>
 
 
@@ -37,7 +37,7 @@ My first project, the Royal Fork, is a feature-rich chess puzzle publishing and 
 ### 📚 [Quizzy](https://github.com/PhrogLover/Quizzy)
 
 <p align="center">
-  <img src="https://github.com/ArijusLengvenis/ArijusLengvenis/blob/resources/quizzy.gif" alt="animated" />
+  <img src="https://github.com/ArijusLengvenis/ArijusLengvenis/blob/main/resources/quizzy.gif" alt="animated" />
 </p>
 
 Quizzy is an interactive web application for creating, organizing, and participating in online quiz competitions. It was here where I got my hands dirty with `ReactJS`, `Websockets`, `OpenVidu`, `WebRTC` and `Google OAuth 2.0`. Alongside PhrogLover, we designed and implemented a modern, interactive, and dynamic UI that encourages user participation and engagement.
@@ -53,7 +53,7 @@ Quizzy is an interactive web application for creating, organizing, and participa
 ### 💬 [IBM Chatbot for Cloud for Financial Services (C4FS)](https://github.com/ArijusLengvenis/ibm-chatbot)
 
 <p align="center">
-  <img src="https://github.com/ArijusLengvenis/ArijusLengvenis/blob/resources/flowchart.png?raw=true" alt="animated" />
+  <img src="https://github.com/ArijusLengvenis/ArijusLengvenis/tree/main/resources/flowchart.png?raw=true" alt="animated" />
 </p>
 
 This project was a significant step in my journey. I had the opportunity to work with a team of 4 on a self-learning chatbot to assist customers at IBM Cloud for Financial Services (C4FS). The project entailed using the IBM Watson machine learning framework for training a fully-functional chatbot to serve information from the IBM documentation promptly. I was the team leader, directly speaking with the client, leading Scrum meetings, and keeping things organized. The whole process taught me a great deal about cooperation within a team, reinforced my knowledge of agile development methodologies, and prepared me for my first summer internship at Wise.
@@ -68,7 +68,7 @@ This project was a significant step in my journey. I had the opportunity to work
 ### 📱 [LecTutor](https://github.com/pjborowiecki/haiid-lectutor-react-native)
 
 <p align="center">
-  <img src="https://github.com/ArijusLengvenis/ArijusLengvenis/blob/resources/lectutor.gif" alt="animated" />
+  <img src="https://github.com/ArijusLengvenis/ArijusLengvenis/blob/main/resources/lectutor.gif" alt="animated" />
 </p>
 
 LecTutor is a helpful active learning application that leverages the power of Artificial Intelligence (AI) to improve the effectiveness of students' study time. The app automates the process of question creation based on lecture notes or slides, enabling users to study more efficiently.
@@ -83,7 +83,7 @@ LecTutor is a helpful active learning application that leverages the power of Ar
 ### 🚶 [Dreamwalker](https://github.com/ArijusLengvenis/bipedal-walker-dreamer)
 
 <p align="center">
-  <img src="https://github.com/ArijusLengvenis/ArijusLengvenis/blob/resources/dreamwalker.gif" alt="animated" />
+  <img src="https://github.com/ArijusLengvenis/ArijusLengvenis/blob/main/resources/dreamwalker.gif" alt="animated" />
 </p>
 
 Dreamwalker is an advanced implementation of a Soft Actor-Critic model with Truncated Quantile Critics as well as Deep Dense Reinforcement learning, incorporating a Dreamer model to improve sample efficiency. The project focuses on a walking environment, specifically the [bipedal walker](https://www.gymlibrary.dev/environments/box2d/bipedal_walker/) and [bipedal walker hardcore](https://www.gymlibrary.dev/environments/box2d/bipedal_walker/) environments.
