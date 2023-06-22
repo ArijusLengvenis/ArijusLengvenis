@@ -116,7 +116,7 @@ Among many other smaller projects.
 
 ## 👨‍💻 Coding Competitions
 
-I enjoy participating in various coding competitions such as [Leetcode](https://leetcode.com/) and [VarsityCode](https://www.showcode.io/varsitycode) for fast, out-of-the-box thinking challenges. I also participate in [Advent of Code](https://adventofcode.com/) to sharpen my problem-solving skills, algorithm and data structure knowledge, and learn new tips and tricks.
+I enjoy participating in various coding competitions such as [Leetcode](https://leetcode.com/) and [VarsityCode](https://www.showcode.io/varsitycode) for fast, out-of-the-box thinking challenges. I also participate in [Advent of Code](https://adventofcode.com/) to sharpen my problem-solving skills, algorithm and data structure knowledge, and learn new tips and tricks. Additionally, in 2023 I participated in the [International Student Cluster (ISC)](https://www.isc-hpc.com/student-cluster-competition.html) virtual competition, which helped me learn a lot about parallel programming, HPC and performance analysis. Our team ClusDur placed 5th in the interview round, where we displayed our results and findings.
 
 ## 🚀 Hobbies and Interests
 
