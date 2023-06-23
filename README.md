@@ -71,7 +71,7 @@ This project was a significant step in my journey. I had the opportunity to work
   <img src="https://github.com/ArijusLengvenis/ArijusLengvenis/blob/main/resources/lectutor.gif" alt="animated" />
 </p>
 
-LecTutor is a helpful active learning application that leverages the power of Artificial Intelligence (AI) to improve the effectiveness of students' study time. The app automates the process of question creation based on lecture notes or slides, enabling users to study more efficiently.
+LecTutor is a helpful active learning application that leverages the power of AI to improve the effectiveness of students' study time. The app automates the process of question creation based on lecture notes or slides, enabling users to study more efficiently.
 
 #### Features:
 
@@ -102,7 +102,7 @@ Dreamwalker is an advanced implementation of a Soft Actor-Critic model with Trun
 - **Context-Aware Recommender System**: Implemented a hybrid context-aware recommender system back-end, which utilises a personalised transformer and an embarrassingly [shallow autoencoder](https://arxiv.org/abs/1905.03375) to provide accurate movie recommendations.
 - **ISC 2023**: During the ISC  2023 competition, was part of the ClusDur team and worked on running, optimising and automating the [POT3D](https://github.com/predsci/POT3D) application for multiple CPU and GPU supercomputer nodes.
 - **Automatic Meter Readings**: a computer vision based app that utilises a Arduino with a camera module to periodically take pictures of our power meter readings, use OCR to read the output and push readings to a Flask DB for storage, which is queried by a Discord bot.
-- **GymBattles**: During Durhack 2020, worked on a computer vision application which tracked workout routine moves like pushups and integrated that into a fun competitive fitness app called GymBattles. (https://github.com/DurhamCS/gym-battles)
+- [**GymBattles**](https://github.com/DurhamCS/gym-battles): During Durhack 2020, worked on a computer vision application which tracked workout routine moves like pushups and integrated that into a fun competitive fitness app called GymBattles. 
 - [**Middle Ground**](https://github.com/DurhamCS/Durhack-2022): During Durhack 2021, worked on a debate app called Middle Ground, which offered users a voice chat-enabled debate playground to discuss controversial topics, with the goal of settling on a compromise between the two opinions, aka the middle ground, using AI. 
 - [**Stock Return Prediction**](https://github.com/isaacsbox/QRT-Stock-Return-Prediction): During Durhack 2022, worked on a stock price prediction model which utilised stock information from the last 20 days and tried to predict the stock price of the following day. 
 
